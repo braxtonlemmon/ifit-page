@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8152b6995cb4150e67753ddc31d7da6",
+    "revision": "5948d36529ef0220cd3f7a2eed923ed2",
     "url": "/ifit-page/index.html"
   },
   {
-    "revision": "c49cdd3a373a1a696c89",
+    "revision": "515acc9d7bfd8fd09cd2",
     "url": "/ifit-page/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ifit-page/static/js/2.7853b381.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c49cdd3a373a1a696c89",
-    "url": "/ifit-page/static/js/main.b453320d.chunk.js"
+    "revision": "515acc9d7bfd8fd09cd2",
+    "url": "/ifit-page/static/js/main.91594d7b.chunk.js"
   },
   {
     "revision": "1a3630cc0f23ae036e3c",
