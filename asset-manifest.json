@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ifit-page/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ifit-page/static/js/main.1e7cfdf7.chunk.js",
-    "main.js.map": "/ifit-page/static/js/main.1e7cfdf7.chunk.js.map",
+    "main.js": "/ifit-page/static/js/main.b453320d.chunk.js",
+    "main.js.map": "/ifit-page/static/js/main.b453320d.chunk.js.map",
     "runtime-main.js": "/ifit-page/static/js/runtime-main.7f490996.js",
     "runtime-main.js.map": "/ifit-page/static/js/runtime-main.7f490996.js.map",
     "static/js/2.7853b381.chunk.js": "/ifit-page/static/js/2.7853b381.chunk.js",
     "static/js/2.7853b381.chunk.js.map": "/ifit-page/static/js/2.7853b381.chunk.js.map",
     "index.html": "/ifit-page/index.html",
-    "precache-manifest.d71e0cd699978d8908d5c1ef7dc2fa02.js": "/ifit-page/precache-manifest.d71e0cd699978d8908d5c1ef7dc2fa02.js",
+    "precache-manifest.f0863f4d7be9d524029e712ffc6c5df3.js": "/ifit-page/precache-manifest.f0863f4d7be9d524029e712ffc6c5df3.js",
     "service-worker.js": "/ifit-page/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/ifit-page/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.7853b381.chunk.js.LICENSE.txt": "/ifit-page/static/js/2.7853b381.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7f490996.js",
     "static/js/2.7853b381.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1e7cfdf7.chunk.js"
+    "static/js/main.b453320d.chunk.js"
   ]
 }
